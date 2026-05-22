@@ -1,0 +1,6 @@
+{
+  "name": "Digital Privacy Guard",
+  "description": "A premium and highly functional mobile security and privacy engine with real-time malware scans, app permission analyses, and threat history logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
